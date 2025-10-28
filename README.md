@@ -9,7 +9,9 @@ Data Source: ONRR Monthly Production Disposition Data
 Publisher: U.S. Department of the Interior – Office of Natural Resources Revenue (ONRR)
 License: CC0 (Public Domain)
 
-Final Results & Insights
+(All data was processed using SQL (BigQuery) and visualized in Tableau)
+
+                              Final Results & Insights
 
 Revenue Trends (2015–2025):
 
