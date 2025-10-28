@@ -11,7 +11,7 @@ License: CC0 (Public Domain)
 
 (All data was processed using SQL (BigQuery) and visualized in Tableau)
 
-                              Final Results & Insights
+Final Results & Insights
 
 Revenue Trends (2015–2025):
 
